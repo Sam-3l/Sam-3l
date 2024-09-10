@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Sam!
 
-<!--
-**Sam-3l/Sam-3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Python and Django developer with a love for building innovative solutions. Here’s a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Plated](https://github.com/Sam-3l/Plated), a recipe app with Django and React.
+- 🌱 I’m currently diving deeper into frontend development with React and TailwindCSS, expanding beyond HTML, CSS, Bootstrap, and JavaScript.
+- 👯 I’m looking to collaborate on frontend projects to enhance my React and TailwindCSS skills.
+- 🤔 I’m enthusiastic about exploring innovative projects and collaborating with others in the frontend space.
+- 💬 Ask me about Django, Flask or Python in general!
+- 📫 How to reach me: [samuelonyeibor21@gmail.com](mailto:samuelonyeibor21@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love listening to music while coding. If I could, I’d import my favorite tracks into my codebase! 🎵
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Flask, React
+- **Tools:** Git, Docker, PostgreSQL, MySQL
+- **Data Science:** Python, NumPy, pandas, scikit-learn, TensorFlow, Keras
+- **Certifications:** Testdome certification in Python development and 4 Kaggle certifications in Data Analysis with pandas, Data Cleaning and Preprocessing, Intermediate Machine Learning, Deep Learning.
+
+## 📈 GitHub Stats
+
+![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam-3l&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+
+## 💬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/samuel-onyeibor-b80866283)
+- [Twitter](https://x.com/_cryptix_xx?t=vk4EIJVP3X-ccwzyJ37qEA&s=09)
+
+Thank you for visiting my profile! 🚀
+
+_“import music; print('Listening to your code while coding...')”_
