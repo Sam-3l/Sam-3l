@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Python and Django developer with 
 - 💬 Ask me about Django, Flask or Python in general!
 - 📫 How to reach me: [samuelonyeibor21@gmail.com](mailto:samuelonyeibor21@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love listening to music while coding. If I could, I’d import my favorite tracks into my codebase! 🎵
+- ⚡ Fun fact: I love listening to music while coding. 🎵
 
 ## 🔧 Technologies & Tools
 
@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm a passionate Python and Django developer with 
 
 Thank you for visiting my profile! 🚀
 
-_“import music; print('Listening to your code while coding...')”_
+_“import music; print('Listening to your code lol...')”_
