@@ -31,5 +31,3 @@ Welcome to my GitHub profile! I'm a passionate Python and Django developer with 
 - [Twitter](https://x.com/_cryptix_xx?t=vk4EIJVP3X-ccwzyJ37qEA&s=09)
 
 Thank you for visiting my profile! 🚀
-
-_“import music; print('Listening to your code lol...')”_
