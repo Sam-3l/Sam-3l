@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Python and Django developer with 
 - 🔭 I’m currently working on [Plated](https://github.com/Sam-3l/Plated), a recipe app with Django and React.
 - 🌱 I’m currently diving deeper into frontend development with React and TailwindCSS, expanding beyond HTML, CSS, Bootstrap, and JavaScript.
 - 👯 I’m looking to collaborate on frontend projects to enhance my React and TailwindCSS skills.
-- 🤔 I’m enthusiastic about exploring innovative projects and collaborating with others in the frontend space.
+- 🤔 I’m enthusiastic about exploring innovative projects and collaborating with others in the any space.
 - 💬 Ask me about Django, Flask or Python in general!
 - 📫 How to reach me: [samuelonyeibor21@gmail.com](mailto:samuelonyeibor21@gmail.com)
 - 😄 Pronouns: He/Him
