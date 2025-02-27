@@ -1,64 +1,44 @@
-# 👋 Hello, I'm Sam!
+<h1 align="center">Hi 👋, I'm Sam</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a love for building **innovative solutions** in the tech space.</h3>
 
-Welcome to my GitHub profile! I'm a passionate **Backend Developer** with a love for building **innovative solutions** in the tech space.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-3l&label=Profile%20views&color=0e75b6&style=flat" alt="sam-3l" /> </p>
 
----
-## 🚀 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-3l" alt="sam-3l" /></a> </p>
 
-- 🔭 Currently working on **[Plated](https://github.com/Sam-3l/Plated)** — a recipe app built with **Django** and **React**.
-- 🌱 Deepening my knowledge in **React** and **TailwindCSS** alongside **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
-- 👯 Open to **collaborations** on frontend and backend projects to **sharpen my React & Flask skills**.
-- 🤝 Always ready to explore **creative, innovative projects** in tech — whether Web2, Web3, or AI.
-- 💬 Ask me about **Django**, **Flask**, **Python**, or anything **backend-related**!
-- 📫 Reach me via **[Email](mailto:samuelonyeibor21@gmail.com)**.
-- ⚡ Fun fact: I write better code while vibing to music 🎵.
+<p align="left"> <a href="https://twitter.com/_cryptix_xx" target="blank"><img src="https://img.shields.io/twitter/follow/_cryptix_xx?logo=twitter&style=for-the-badge" alt="_cryptix_xx" /></a> </p>
 
----
-## 🔧 Technologies & Tools
+- 🔭 I’m currently working on [Plated](https://github.com/Sam-3l/Plated)
 
-### Languages & Frameworks
+- 🌱 Deepening my knowledge in ****React**, **Next** and **TailwindCSS** alongside data science.**
+
+- 👯 I’m looking to collaborate on **a new project I'm about to start. I just need project ideas**
+
+- 🤝 Always ready to explore ****creative, innovative projects** in tech — whether Web2, Web3, or AI.**
+
+- 👨‍💻 All of my projects are available at [soon](soon)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/samuel-onyeibor-b80866283](https://www.linkedin.com/in/samuel-onyeibor-b80866283)
+
+- 💬 Ask me about **Python, Django, Javascript and any other thing you wanna know**
+
+- 📫 How to reach me **samuelonyeibor21@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1N3VEgwqtdu4sF0qhrQMdW2WPsNKEzTJ7/view?usp=drive_link](https://drive.google.com/file/d/1N3VEgwqtdu4sF0qhrQMdW2WPsNKEzTJ7/view?usp=drive_link)
+
+- ⚡ Fun fact **I write better code while vibing to music 🎵... Nah. I just always listen to music**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+<a href="https://twitter.com/_cryptix_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_cryptix_xx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-onyeibor-b80866283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-onyeibor-b80866283" height="30" width="40" /></a>
+<a href="https://kaggle.com/smu3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smu3ll" height="30" width="40" /></a>
 </p>
 
-### Tools & Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Data Science & ML
-- Python, NumPy, pandas, scikit-learn, TensorFlow, Keras
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-3l&show_icons=true&locale=en&layout=compact" alt="sam-3l" /></p>
 
-### Certifications 🏅
-- Testdome Certification in **Python Development**
-- 4 Kaggle Certifications in **Data Analysis**, **Data Cleaning**, **Intermediate ML**, and **Deep Learning**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-3l&show_icons=true&locale=en" alt="sam-3l" /></p>
 
----
-## 📊 GitHub Stats
-
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam-3l&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
-
-![Engagement Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sam-3l&theme=react-dark)
-
----
-## 🌐 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/samuel-onyeibor-b80866283" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/_cryptix_xx?t=vk4EIJVP3X-ccwzyJ37qEA&s=09" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-</p>
-
----
-🚀 Thank you for visiting my profile!
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-3l&" alt="sam-3l" /></p>
