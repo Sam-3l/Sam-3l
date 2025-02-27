@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Fullstack Developer with a love for building innovative solutions in the tech space.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-3l&label=Profile%20views&color=0e75b6&style=flat" alt="sam-3l" /> </p>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a love for building **innovative solutions** in the tech space.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-3l" alt="sam-3l" /></a> </p>
 
@@ -30,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_cryptix_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_cryptix_xx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-onyeibor-b80866283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-onyeibor-b80866283" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuel-onyeibor-b80866283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-onyeibor-b80866283" height="30" width="40" /></a>
 <a href="https://kaggle.com/smu3ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smu3ll" height="30" width="40" /></a>
 </p>
 
