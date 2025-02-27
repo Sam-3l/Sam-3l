@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a love for building **innovative solutions** in the tech space.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Fullstack Developer with a love for building innovative solutions in the tech space.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-3l" alt="sam-3l" /></a> </p>
 
