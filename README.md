@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a love for building **innovative solutions** in the tech space.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Fullstack Developer with a love for building innovative solutions in the tech space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-3l&label=Profile%20views&color=0e75b6&style=flat" alt="sam-3l" /> </p>
 
