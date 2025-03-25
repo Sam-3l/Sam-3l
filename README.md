@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Plated](https://github.com/Sam-3l/Plated)
 
-- 🌱 Deepening my knowledge in ****React**, **Next** and **TailwindCSS** alongside data science.**
+- 🌱 Deepening my knowledge in ****React** and **TailwindCSS** alongside data science.**
 
 - 👯 I’m looking to collaborate on **a new project I'm about to start. I just need project ideas**
 
