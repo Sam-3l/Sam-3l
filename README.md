@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/_cryptix_xx" target="blank"><img src="https://img.shields.io/twitter/follow/_cryptix_xx?logo=twitter&style=for-the-badge" alt="_cryptix_xx" /></a> </p>
 
-- 🔭 I’m currently working on [Plated](https://github.com/Sam-3l/Plated)
+- 🔭 I’m currently working on [TaskFlow](https://github.com/Sam-3l/TaskFlow)
 
-- 🌱 Deepening my knowledge in ****React** and **TailwindCSS** alongside data science.**
+- 🌱 Deepening my knowledge in ****React** and **Next.js** alongside data science.**
 
-- 👯 I’m looking to collaborate on **a new project I'm about to start. I just need project ideas**
+- 👯 I’m looking to collaborate on **a new project.**
 
 - 🤝 Always ready to explore ****creative, innovative projects** in tech — whether Web2, Web3, or AI.**
 
