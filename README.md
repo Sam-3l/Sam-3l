@@ -17,8 +17,7 @@
 
 ### 🚀 Featured Project
 
-**[🔗 TaskFlow – A Task Management Web App](https://github.com/Sam-3l/TaskFlow)**  
-_Django · React · PostgreSQL · Bootstrap_
+**[🔗 TaskFlow – AI Powered Productifity Platform](https://github.com/Sam-3l/TaskFlow)**  
 
 ---
 
